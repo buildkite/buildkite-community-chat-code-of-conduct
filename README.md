@@ -41,7 +41,7 @@ Unacceptable behavior from any community member, including staff and those with 
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, we may take any action deemed appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
+If a community member engages in unacceptable behavior, we may take any action deemed appropriate, up to and including a temporary or permanent ban from the community without warning.
 
 ## Reporting Guidelines
 
@@ -49,7 +49,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 ## Addressing Issues
 
-Only permanent resolutions (such as bans) may be changed. To discuss a decision, contact the Buildkite staff at support@buildkite.com and we will review your question.
+To discuss a decision that has been made, contact the Buildkite staff at support@buildkite.com and we will review your question.
 
 ## License and attribution
 
