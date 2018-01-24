@@ -54,3 +54,5 @@ Only permanent resolutions (such as bans) may be changed. To discuss a decision,
 ## License and attribution
 
 This Code of Conduct is directly adapted from the [Creative Commons Slack Community Code of Conduct](https://wiki.creativecommons.org/wiki/Slack/Code_of_Conduct) and distributed under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+Major portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
