@@ -1,12 +1,12 @@
-# Buildkite Community Chat Code of Conduct
+# Buildkite Forum Code of Conduct
 
 ## Purpose
 
-A primary goal of [Buildkite Community Chat](https://chat.buildkite.com/) is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [Buildkite Forum](https://forum.buildkite.community/)) is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-This code of conduct outlines our expectations for all those who participate in our Slack community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our Forum community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in Buildkite community activities to help us create safe and positive experiences for everyone.
 
@@ -28,7 +28,7 @@ The following behaviors are expected and requested of all community members:
   * Violent threats or language directed against another person.
   * Discriminatory jokes and language.
   * Posting sexually explicit or violent material.
-  * Posting (or threatening to post) other people's personally identifying information ("doxing").
+  * Posting (or threatening to post) other people's personally identifying information (aka "doxxing" of any form).
   * Personal insults, especially those using racist or sexist terms.
   * Unwelcome sexual attention.
   * Advocating for, or encouraging, any of the above behavior.
